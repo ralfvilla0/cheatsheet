@@ -1,0 +1,57 @@
+html {
+    font-family: Merriweather, 'Bona Nova SC', sans-serif;
+    font-weight: 700;
+  }
+  body {
+    background-image: url('./antelope-canyon-low-angle-view-vgpcn6bxebja3sy3.jpg');
+  }
+  h1, h2 {
+    text-align: center;
+    color: white;
+  }
+  table {
+    margin-bottom: 40px;
+  }
+  #flex {
+    display: flex;
+    gap: 50%;
+  }
+  .tables {
+    text-align: center;
+  }
+  .tag {
+    background-color: hsla(137, 81%, 69%, 0.90);
+    font-weight: bold;
+  }
+  .name {
+    padding: 10px 15px;
+    background-color: #FFF5E1;
+  }
+  .tag, .name {
+    text-align: center;
+  }
+  table, th, td {
+    border-collapse: collapse;
+    border: 1px solid;
+  }
+  #space-blank {
+    height: 15px;
+  }
+  .description {
+    padding: 15px 25px;
+    text-align: center;
+    background-color: hsla(233, 83%, 26%, 0.90);
+    color: white;
+  }
+  .yellow {
+    background-color: hsla(98, 93%, 56%, 0.90);
+    padding: 10px 15px;
+    text-align: center;
+    font-weight: bold;
+  }
+  .red {
+    background-color: hsla(354, 84%, 23%, 0.90);
+    color: white;
+    text-align: center;
+    padding: 15px 25px;
+  }
